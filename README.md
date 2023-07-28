@@ -6,7 +6,7 @@ Projeto Final da turma online: Todas em Tech 0n23 - Front-end.
 
 ### Quem é Aluna Marcia Dias?
 
-<img src='/Projeto Abraça+/img/marcia.jpg' width=500 alt='Foto da Aluna Marcia Dias'>
+<img src='./img/marcia.jpg' width=500 alt='Foto da Aluna Marcia Dias'>
 
 [Marcia Dias](https://www.instagram.com/magaspe), Pernambucana, trabalho como coordenadora de E-commerce, aluna {reprograma}.
 
@@ -24,8 +24,8 @@ Projeto Final da turma online: Todas em Tech 0n23 - Front-end.
 
 Projeto Abraça mais Recife, consiste em uma plataforma que agrupa as informações relevantes sobre a comunidade LGBTQIA+, onde o foco é mapear as casas de acolhimento na região e um canal e pedido de ajuda e denuncias. 
 
-<img src='./Projeto Abraça+/img/favicon.PNG' width=500 alt='Logo do Projeto'>
-<img src='./Projeto Abraça+/img/logo-white.png' width=500 alt='Logo do Projeto'>
+<img src='./img/favicon.PNG' width=500 alt='Logo do Projeto'>
+<img src='./img/logo-white.png' width=500 alt='Logo do Projeto'>
 
 ## 🧠 Contexto
 
@@ -38,10 +38,6 @@ Criado um site usando HTML, CSS e JAVASCRIPT, apresentando e enriquecendo o noss
 * UniversoLGBTQIA+
 * Fale Conosco
 * Casas
-* Serviços
-* Educação
-* Saúde
-
 
 Todas as páginas terão os componentes:
 
@@ -49,6 +45,14 @@ Todas as páginas terão os componentes:
 * Header
 * Main 
 * Footer
+
+Futuras implementações: 
+
+* Página de Atendimento hospitalar
+* Página de Assessoria juridica
+* Página de Cursos
+* Página conheça a {abraça +}
+* Ligação direta do botão "190" para policia. 
 
 
 ## Estrutura do projeto
@@ -64,7 +68,7 @@ Todas as páginas terão os componentes:
 | `CSS Responsive` | Ferramenta para ter mais responsividade em diversas plataformas do usuário|
 | `Javascript` | Ferramenta de funcionalidade e comportamento |
 | `Firebase` | Ferramenta realtime database para gravar as mensagens de contato|
-| `Vercel` | Hospedagem para a aplicação, fiz o deploy integrado com o github|
+| `Nettify` | Hospedagem para a aplicação, fiz o deploy integrado com o github|
 | `Github` | Hospedagem do código fonte integrado com gerenciador de versionamento|
 
 
@@ -80,8 +84,8 @@ Todas as páginas terão os componentes:
 6) Criado o componente Footer com responsividade.
 7) Usados javascript para a funcionalidade do formulário de contato. 
 8) Criado um conteúdo na página Contato estilizada e dinâmica, integrada ao Firebase.
-9) Incluido config da vercel.
-10) Push no github e feito deploy vercel.
+9) Incluido config da Nettify.
+10) Push no github e feito deploy Nettify.
 
 
 
@@ -98,9 +102,9 @@ Para estilizar os componentes, foi criado um css para cada página
 ## 3. Criados Projeto no Firebase
 Foi reconfigurado todo projeto para que as informações da API manualmente no Javascript.
 
-## 4. Inclusão do projeto no Vercel e realizado o deploy.
+## 4. Inclusão do projeto no Nettify e realizado o deploy.
 
-Vem aqui conferir o resultado final: https://projeto-abraca.vercel.app/
+Vem aqui conferir o resultado final: https://projeto-abracamaisrecife.netlify.app
 
 # Citação e Agradecimento
 
