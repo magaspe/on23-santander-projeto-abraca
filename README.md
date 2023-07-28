@@ -6,7 +6,7 @@ Projeto Final da turma online: Todas em Tech 0n23 - Front-end.
 
 ### Quem é Aluna Marcia Dias?
 
-<img src='/Projeto Abraça+/img/marcia.jpg' width=500 alt='Foto da Aluna Marcia Dias'>
+<img src='./img/marcia.jpg' width=500 alt='Foto da Aluna Marcia Dias'>
 
 [Marcia Dias](https://www.instagram.com/magaspe), Pernambucana, trabalho como coordenadora de E-commerce, aluna {reprograma}.
 
@@ -24,8 +24,8 @@ Projeto Final da turma online: Todas em Tech 0n23 - Front-end.
 
 Projeto Abraça mais Recife, consiste em uma plataforma que agrupa as informações relevantes sobre a comunidade LGBTQIA+, onde o foco é mapear as casas de acolhimento na região e um canal e pedido de ajuda e denuncias. 
 
-<img src='./Projeto Abraça+/img/favicon.PNG' width=500 alt='Logo do Projeto'>
-<img src='./Projeto Abraça+/img/logo-white.png' width=500 alt='Logo do Projeto'>
+<img src='./img/favicon.PNG' width=500 alt='Logo do Projeto'>
+<img src='./img/logo-white.png' width=500 alt='Logo do Projeto'>
 
 ## 🧠 Contexto
 
