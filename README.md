@@ -64,7 +64,7 @@ Todas as páginas terão os componentes:
 | `CSS Responsive` | Ferramenta para ter mais responsividade em diversas plataformas do usuário|
 | `Javascript` | Ferramenta de funcionalidade e comportamento |
 | `Firebase` | Ferramenta realtime database para gravar as mensagens de contato|
-| `Vercel` | Hospedagem para a aplicação, fiz o deploy integrado com o github|
+| `Netlify` | Hospedagem para a aplicação, fiz o deploy integrado com o github|
 | `Github` | Hospedagem do código fonte integrado com gerenciador de versionamento|
 
 
@@ -80,8 +80,8 @@ Todas as páginas terão os componentes:
 6) Criado o componente Footer com responsividade.
 7) Usados javascript para a funcionalidade do formulário de contato. 
 8) Criado um conteúdo na página Contato estilizada e dinâmica, integrada ao Firebase.
-9) Incluido config da vercel.
-10) Push no github e feito deploy vercel.
+9) Incluido config da Netlify.
+10) Push no github e feito deploy Netlify.
 
 
 
@@ -98,9 +98,9 @@ Para estilizar os componentes, foi criado um css para cada página
 ## 3. Criados Projeto no Firebase
 Foi reconfigurado todo projeto para que as informações da API manualmente no Javascript.
 
-## 4. Inclusão do projeto no Vercel e realizado o deploy.
+## 4. Inclusão do projeto no Netlify e realizado o deploy.
 
-Vem aqui conferir o resultado final: https://projeto-abraca.vercel.app/
+Vem aqui conferir o resultado final: https://projeto-abracamaisrecife.netlify.app/
 
 # Citação e Agradecimento
 
