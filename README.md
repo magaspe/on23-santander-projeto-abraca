@@ -22,7 +22,7 @@ Projeto Final da turma online: Todas em Tech 0n23 - Front-end.
 
 ## Sobre 
 
-Projeto Abraça mais Recife, consiste em uma plataforma que agrupa as informações relevantes sobre a comunidade LGBTQIA+, onde o foco é mapear as casas de acolhimento na região e um canal e pedido de ajuda e denuncias. 
+Projeto Abraça mais Recife, consiste em uma plataforma que agrupa as informações relevantes sobre a comunidade LGBTQIA+, onde o foco é mapear as casas de acolhimento na região e um canal e pedido de ajuda e denúncias. 
 
 <img src='./img/favicon.PNG' width=500 alt='Logo do Projeto'>
 <img src='./img/logo-white.png' width=500 alt='Logo do Projeto'>
@@ -32,16 +32,12 @@ Projeto Abraça mais Recife, consiste em uma plataforma que agrupa as informaç�
 Criado um site usando HTML, CSS e JAVASCRIPT, apresentando e enriquecendo o nosso portfólio, além de treinar todos os conteúdos vistos no curso.
 
 
-## O site pessoal conteem 8 páginas:
+## O site pessoal conteem 4 páginas:
 
 * Home
 * UniversoLGBTQIA+
 * Fale Conosco
 * Casas
-* Serviços
-* Educação
-* Saúde
-
 
 Todas as páginas terão os componentes:
 
@@ -50,6 +46,14 @@ Todas as páginas terão os componentes:
 * Main 
 * Footer
 
+Páginas futuras
+
+* Atendimento hospitalar
+* Assessoria Juridica
+* Cursos
+* Conheça a {Abraça+}
+
+**Implementação futura no botão "Ligue 190" integrado com a polícia civil. 
 
 ## Estrutura do projeto
 
