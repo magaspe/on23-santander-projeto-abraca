@@ -14,11 +14,10 @@
     list-style: none;
   }
   
-  /* define que as imagens tem que ter o tamanho máximo da div mãe */
+
   .img-responsive {
     width: 100%;
     height: 100%;
-    /* garante que a imagem vai ocupar todo o conteúdo da div sem distorce */
     object-fit: cover;
   }
   
@@ -218,6 +217,11 @@
   
   @media (max-width: 768px) {
 
+    .img-responsive {
+      width: 90%;
+      height: 90%;
+      object-fit: cover;
+    } 
 
     .menu__nav {
       display: none;

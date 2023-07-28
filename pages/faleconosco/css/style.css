@@ -516,6 +516,12 @@
   
   @media (max-width: 768px) {
 
+    .img-responsive {
+      width: 90%;
+      height: 90%;
+      object-fit: cover;
+    }
+
 
     .menu__nav {
       display: none;

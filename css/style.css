@@ -229,6 +229,20 @@ li {
   
   @media (max-width: 768px) {
 
+    .img-responsive {
+      width: 90%;
+      height: 90%;
+      object-fit: cover;
+    }
+  
+
+    .header {
+      min-height: 90vh;
+      width: 100%;
+      background-size: cover;
+      background-image: url(../img/banner-mobile.png);
+      display: flex;
+    }
 
     .menu__nav {
       display: none;

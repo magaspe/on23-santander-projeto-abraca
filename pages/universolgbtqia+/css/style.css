@@ -14,11 +14,10 @@
     list-style: none;
   }
   
-  /* define que as imagens tem que ter o tamanho máximo da div mãe */
+
   .img-responsive {
     width: 100%;
     height: 100%;
-    /* garante que a imagem vai ocupar todo o conteúdo da div sem distorce */
     object-fit: cover;
   }
   
@@ -221,11 +220,16 @@
 
 @media (max-width: 768px) {
 
+  .img-responsive {
+    width: 90%;
+    height: 90%;
+    object-fit: cover;
+  }
 
   .header {
     background-image: url(../img/banner-mobile.PNG);
-    min-width: 60vh;
-    min-height: 80vh;
+    min-width: 40vh;
+    min-height: 50vh;
         
   }
 

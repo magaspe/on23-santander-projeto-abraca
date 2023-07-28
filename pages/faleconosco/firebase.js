@@ -6,13 +6,15 @@ const botao = document.querySelector('.botao')
 function submitForm(e) {
 e.preventDefault();
 
-alert ("EM BREVE ENTRAREMOS EM CONTATO COM VOCÊ")
+// alert ("EM BREVE ENTRAREMOS EM CONTATO COM VOCÊ")
+// swal("Hello world!");
+
+swal("Em Breve, vamos entrar em contato com você")
 
 var name = getInputVal('nome');
 var email = getInputVal('email');
 var assunto = getInputVal('assunto');
 var mensagem = getInputVal('mensagem');
-
 
 saveMessage(name, email, assunto, mensagem);
 document.getElementById('form').reset();
